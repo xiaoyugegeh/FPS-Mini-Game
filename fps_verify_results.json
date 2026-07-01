@@ -1,0 +1,24 @@
+{
+  "pointerLockAfterClick": true,
+  "pointerLockElementIsCanvas": true,
+  "cameraYawChanged": true,
+  "escExitedPointerLock": true,
+  "consoleErrors": [
+    "Failed to load resource: the server responded with a status of 404 (Not Found)"
+  ],
+  "screenshots": {
+    "step1_initial": "d:\\游戏kimi\\fps_verify_step1_initial.png",
+    "step2_after_load": "d:\\游戏kimi\\fps_verify_step2_after_load.png",
+    "step3_after_click": "d:\\游戏kimi\\fps_verify_step3_after_click.png",
+    "step4_after_mouse_move": "d:\\游戏kimi\\fps_verify_step4_after_mouse_move.png",
+    "step5_after_esc": "d:\\游戏kimi\\fps_verify_step5_after_esc.png"
+  },
+  "yawBefore": 0,
+  "yawAfter": -0.015360000000000002,
+  "r3fCameraInfo": {
+    "hasCamera": false,
+    "rotationY": null,
+    "quaternionY": null
+  },
+  "failedRequests": []
+}
