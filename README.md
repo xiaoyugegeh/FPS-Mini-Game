@@ -15,7 +15,7 @@
 
 ```
 游戏kimi/
-├── .trae/documents/              # PRD 与 技术架构文档
+├── .yu/documents/                # PRD 与 技术架构文档
 ├── public/                       # 静态资源（当前无外部资源，保留扩展）
 ├── src/
 │   ├── components/
