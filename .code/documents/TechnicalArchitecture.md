@@ -81,7 +81,7 @@ flowchart TD
 
 ```
 游戏kimi/
-├── .yu/documents/            # PRD、技术架构文档
+├── .code/documents/           # PRD、技术架构文档
 ├── public/
 │   ├── audio/                # 枪声、脚步声、命中音等
 │   └── textures/             # 墙面、地面、金属等纹理

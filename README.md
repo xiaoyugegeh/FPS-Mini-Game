@@ -150,7 +150,7 @@ npm run preview
 
 ```
 游戏kimi/
-├── .yu/documents/                # PRD 与 技术架构文档
+├── .code/documents/               # PRD 与 技术架构文档
 ├── public/                       # 静态资源
 ├── screenshots/                  # 游戏截图（README 使用）
 ├── src/
