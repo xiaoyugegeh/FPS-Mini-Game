@@ -46,7 +46,8 @@
 │   ├── utils/
 │   │   ├── constants.ts          # 游戏常量与阶段配置
 │   │   ├── localStorage.ts       # 进度存档
-│   │   └── math.ts               # 数学与碰撞工具
+│   │   ├── math.ts               # 数学与碰撞工具
+│   │   └── spatialGrid.ts        # 静态碰撞体空间网格
 │   ├── App.tsx                   # 应用根组件
 │   ├── index.css                 # 全局样式与字体
 │   ├── main.tsx                  # 入口
@@ -71,6 +72,8 @@
 | `EffectsSystem` | 弹痕贴花、命中粒子、枪口闪光 |
 | `AudioManager` | 程序化枪声、脚步声、命中音、UI 音、震动反馈 |
 | `PerformanceMonitor` | FPS/内存统计、动态画质降级 |
+| `MonsterSystem` | 人形 AI bot 生成、寻路、攻击与波次管理 |
+| `spatialGrid` | 静态碰撞体空间网格，降低每帧碰撞检测开销 |
 
 ## 7 个教学阶段
 
